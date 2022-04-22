@@ -1,0 +1,38 @@
+body{
+ background: green;
+ text-align: center;
+ color: white;
+ font-weight: bold;
+ display: flex;
+ flex-direction: column;
+ font-size: 30px;
+}
+h1{
+ color: goldenrod;
+ margin-top: 10px;
+}
+#message-el{
+ font-style: italic;
+}
+#start-btn{
+ color: #016f32;
+ width: 250px;
+ background: goldenrod;
+ height: 50px;
+ border-radius: 5px;
+ font-weight: bold;
+ border: none;
+ padding: 5px 0;
+ margin: 10px 70px;
+}
+#new-btn{
+ color: #016f32;
+ width: 250px;
+ background: goldenrod;
+ height: 50px;
+ border-radius: 5px;
+ font-weight: bold;
+ border: none;
+ padding: 5px 0;
+ margin: 0px 70px;
+}
